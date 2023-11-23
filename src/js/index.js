@@ -20,3 +20,7 @@ LÓGICA
 
 // pillar la pregunta y el contenedor de las respuestas
 // las respuestas las puedo comparar y saber solo usando el textcontent
+
+const questionElement = document.getElementById("question");
+const answersElement = document.getElementById("answers");
+
